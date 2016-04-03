@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -14,3 +15,7 @@ NEWS	A basic changelog, intended for users
 INSTALL	Installation instructions
 COPYING / LICENSE	Copyright and licensing information
 BUGS	Known bugs and instructions on reporting new ones
+=======
+# 404finder
+404 finder page...
+>>>>>>> 97fee9234434347d698669f3e3364e6b5d52f7be
